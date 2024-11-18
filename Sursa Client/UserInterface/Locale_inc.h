@@ -1,0 +1,7 @@
+#ifndef ENABLE_SPECULAR_SYSTEM
+#define ENABLE_SPECULAR_SYSTEM
+#define SET_ALPHACHANNEL_INTENSITY 3 /* 1.Normal intensity 2.Semi intensity 3.Max intensity */
+#define ENABLE_EFFECT_COLOR_SYSTEM
+#endif
+#define ENABLE_RENDER_TARGET
+#define ENABLE_PYTHON_CONFIG

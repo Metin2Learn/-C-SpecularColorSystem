@@ -1,0 +1,3 @@
+Cine vrea sa schimbe tipul specularului, le ia din Eren3
+
+EX: Cand schimbi specularul frezelor, sistemul ia si parul, nu doar freza (ex la bandana de war)
